@@ -1,3 +1,23 @@
+# To Do List
+## Features
+Add new tasks to the list
+Mark tasks as completed by checking the checkbox next to the task
+Clear completed tasks
+View the list of tasks that are not yet completed
+## Usage
+To use the To-Do List web app, follow these steps:
+
+Enter a new task in the text area at the top of the page.
+
+Click the "Add" button to add the task to the list.
+
+To mark a task as completed, click the checkbox next to the task.
+
+To clear completed tasks, click the "Clear" button.
+
+## License
+Feel free to modify and use the code as you see fit.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
